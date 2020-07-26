@@ -1,0 +1,6 @@
+أول حاجة فكر فى الحاجات المتكررة
+ألترانزيشن بيحصل على العنصر كله
+fixed,absolute
+بيحولوا العنصر من block ل inline-block
+لو عامل overflow hidden 
+الdropdown مش حتظهر
